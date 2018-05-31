@@ -1,1 +1,3 @@
 # nativeAndroidProject
+
+rn项目nativeProjectTest所对应的android项目
